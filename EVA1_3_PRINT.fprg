@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="PRACTICA_2_EVA_1"/>
+        <attribute name="authors" value="JORGE"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:33:55 p. m."/>
+        <attribute name="created" value="Sk9SR0U7REVTS1RPUC1PN0JFT0g1OzIwMjUtMDgtMjY7MDU6MDY6MDIgcC4gbS47MjkwMQ=="/>
+        <attribute name="edited" value="Sk9SR0U7REVTS1RPUC1PN0JFT0g1OzIwMjUtMDgtMjY7MDU6MzM6NTUgcC4gbS47MzszMDE5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE&quot;" newline="False"/>
+            <output expression="&quot;JORGE ARTURO ALCANTAR ORDO&#209;EZ&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL&quot;" newline="False"/>
+            <output expression="&quot;25550707&quot;" newline="True"/>
+            <output expression="&quot;EDAD&quot;" newline="False"/>
+            <output expression="18" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
