@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_6_OPERACIONES"/>
+        <attribute name="authors" value="JORGE"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-28 05:08:11 p. m."/>
+        <attribute name="created" value="Sk9SR0U7REVTS1RPUC1PN0JFT0g1OzIwMjUtMDgtMjg7MDU6MDM6MTkgcC4gbS47MjkwOA=="/>
+        <attribute name="edited" value="Sk9SR0U7REVTS1RPUC1PN0JFT0g1OzIwMjUtMDgtMjg7MDU6MDg6MTEgcC4gbS47MTszMDEz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body/>
+    </function>
+</flowgorithm>
