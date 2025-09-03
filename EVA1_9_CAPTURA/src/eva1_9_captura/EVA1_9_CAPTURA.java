@@ -12,7 +12,6 @@ public class EVA1_9_CAPTURA {
         String nombre;
         int edad;
         double promedio;
-       
         //COMO CAPTURAR EN JAVA
         System.out.println("Introduce tu nombre completo: ");
         nombre = input.nextLine();//nextLine()---CAPTURA TEXTO
