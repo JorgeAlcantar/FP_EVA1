@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_13_IF"/>
+        <attribute name="authors" value="JORGE"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-05 05:28:14 p. m."/>
+        <attribute name="created" value="Sk9SR0U7REVTS1RPUC1PN0JFT0g1OzIwMjUtMDktMDU7MDU6MDE6MzAgcC4gbS47Mjg5NQ=="/>
+        <attribute name="edited" value="Sk9SR0U7REVTS1RPUC1PN0JFT0g1OzIwMjUtMDktMDU7MDU6Mjg6MTQgcC4gbS47MTszMDE0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="CALIFICACI&#211;N" type="Real" array="False" size=""/>
+            <output expression="&quot;INTRODUCE LA CALIFICACI&#211;N&quot;" newline="True"/>
+            <input variable="CALIFICACI&#211;N"/>
+            <if expression="CALIFICACI&#211;N &#8805; 70">
+                <then>
+                    <output expression="&quot;Puedes ir a DisneyLand&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;AZOTES!!!!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
